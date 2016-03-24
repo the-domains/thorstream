@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[thorstream]]></title>
         <description><![CDATA[thorstream]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://thorstream.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 14:51:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 14:55:40 GMT</lastBuildDate>
+        <atom:link href="http://thorstream.tv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://static.wixstatic.com/media/1e928b_f84cbcb9cee94d8fbe9e20e569088f61.png/v1/fill/w_890,h_356,al_c,usm_0.66_1.00_0.01/1e928b_f84cbcb9cee94d8fbe9e20e569088f61.png">]]></description>
-            <link>undefined41bcc6f3-347a-4f6f-8f0c-2e7f3dc1b252/index.html</link>
+            <link>http://www.thorstream.com/</link>
             <guid isPermaLink="false">41bcc6f3-347a-4f6f-8f0c-2e7f3dc1b252</guid>
-            <pubDate>Thu, 24 Mar 2016 14:51:43 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 14:55:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
